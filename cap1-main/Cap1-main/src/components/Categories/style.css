@@ -1,0 +1,18 @@
+.lessSize{
+    font-size: 1.5vw;
+    margin: 2.5%;    /*   here   */
+ }
+
+ .lessSize:hover{
+     font-size: 1.7vw;     /*   here   */
+ }
+
+ #BackCateg{
+    color: white;
+    font-size: 1.7vw;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    margin: 0 33vw 0 0;
+    padding-bottom: 7vh;           /*   here   */
+}

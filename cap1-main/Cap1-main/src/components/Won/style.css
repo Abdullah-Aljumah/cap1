@@ -1,0 +1,13 @@
+.list-won {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  height: 100vh;
+}
+
+.wonImage {
+    width: 22vw;
+    margin-top: 3%;
+}
